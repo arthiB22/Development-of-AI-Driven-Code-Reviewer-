@@ -1,7 +1,7 @@
 Deployment Link: 
 https://synncc-it.vercel.app/
 
-watch the  Project Demonstration (https://youtu.be/kGVPO_k_Iw8)
+watch the  Project Demonstration (https://drive.google.com/file/d/1YQV3jw8wia7w_GMjfPShtxzZ2egAjGll/view?usp=sharing)
 
 
 # SynnccIT | AI-Powered Cloud IDE
